@@ -15,7 +15,7 @@ function App() {
     <>
       {/* <Nav props={STATE.ui.nextPlan}/> */}
       <div>Travel Application</div>
-      <PlanningApp />
+      {/* <PlanningApp /> */}
       {/* FlightTrackingApp */}
       {/* HotelBookingApp */}
       {/* MessagingApp */}
